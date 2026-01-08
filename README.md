@@ -65,9 +65,9 @@ ScholarSpot is a specialized e-commerce platform built with HTML,CSS,JAVASCRIPT,
 ## Developer Information
 * **Sole Solero**
 * **Members:**
-* Seon Soquena  - BSIT 2-A - Role (Front-end Developer and Documentation)
-* Renmar Doromal  - BSIT 2-A - Role (Back-end Developer and Documentation)
-* Kyle Benjamin - BSIT 2-A - Role (UX/UI Designer)
-* John Matthew Robles - BSIT 2-A - Role (UX/UI Designer)
-* Ronjeru Taylaran - BSIT 2-A - Role (UX/UI Designer)
-* Michael Angelo Heria - BSIT 2-A - Role (UX/UI Designer)
+* Seon Soquena  - BSIT 3-A - Role (Front-end Developer and Documentation)
+* Renmar Doromal  - BSIT 3-A - Role (Back-end Developer and Documentation)
+* Kyle Benjamin - BSIT 3-A - Role (UX/UI Designer)
+* John Matthew Robles - BSIT 3-A - Role (UX/UI Designer)
+* Ronjeru Taylaran - BSIT 3-A - Role (UX/UI Designer)
+* Michael Angelo Heria - BSIT 3-A - Role (UX/UI Designer)
