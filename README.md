@@ -25,7 +25,7 @@ ScholarSpot is a specialized e-commerce platform built with HTML,CSS,JAVASCRIPT,
 
 ## Installation Instructions
 1. **Clone the repository:**
-   git clone https://github.com/rapondal/ecommerce-scholarspot.git
+   git clone https://github.com/rapondal/ecommerce
 2. **Import SQL file:**
    Open phpMyAdmin, create a new database, and import the file found in "/database/ecommerce_db.sql"
 3. **Configure Database:**
